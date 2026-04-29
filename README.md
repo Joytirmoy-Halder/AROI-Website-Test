@@ -1,2 +1,2 @@
 Landing page view:
-<img src="images/ScreenShot of Site.png"
+<img src="images/ScreenShot of Site.png">
